@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">open_weather</string>
+    <string name="cidade">Cidade</string>
+    <string name="estado">SP</string>
+    <string name="pais">BR</string>
+    <string name="procura_tempo">Busca previsão do Tempo</string>
+    <string name="temp">Temp</string>
+    <string name="feel">Sensação</string>
+    <string name="humd">Humidade</string>
+    <string name="msg">Entre com a Cidade, Estado e Pais para a Previsao do Tempo</string>
+</resources>
